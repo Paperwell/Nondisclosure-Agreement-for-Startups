@@ -1,0 +1,100 @@
+**MUTUAL NONDISCLOSURE AGREEMENT**
+
+**[COMPANY NAME]**
+
+This Mutual Nondisclosure Agreement (the “Agreement”) is made as of _ _ _ _ _ _ _ _ _ _ _ _ _ , by and between [Company Name], a Delaware corporation (the “Company”), and _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  (“Counterparty”).  Each party has disclosed and/or may further disclose its Confidential Information (as defined below) to the other in connection with the Relationship (as defined below) pursuant to the terms and conditions of this Agreement.  As used herein, the term “Discloser” shall refer to the Company whenever the context refers to the Company’s Confidential Information being disclosed to Counterparty, which is referred to as “Recipient” in that context.  Conversely, the term “Discloser” shall refer to Counterparty whenever the context refers to Counterparty’s Confidential Information being disclosed to the Company, which is referred to as “Recipient” in that context. 
+
+>1) **Purpose.**  The parties wish to explore a possible business opportunity of mutual interest [regarding _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ ] (the “Relationship”) in connection with which Discloser has disclosed and/or may further disclose its Confidential Information (as defined below) to Recipient.  This Agreement is intended to allow the parties to continue to discuss and evaluate the Relationship while protecting Discloser’s Confidential Information (including Confidential Information previously disclosed to Recipient) against unauthorized use or disclosure.
+
+>2) **Definition of Confidential Information.**  “Confidential Information” means any oral, written, graphic or machine-readable information, technical data or know-how, including, but not limited to, that which relates to patents, patent applications, research, product plans, products, developments, inventions, processes, designs, drawings, engineering, formulae, markets, software (including source and object code), hardware configuration, computer programs, algorithms, [regulatory information, medical reports, clinical data and analysis, reagents, cell lines, biological materials, chemical formulas,] business plans, agreements with third parties, services, customers, marketing or finances of Discloser, which Confidential Information is designated in writing to be confidential or proprietary, or if given orally, is confirmed in writing as having been disclosed as confidential or proprietary within a reasonable time (not to exceed thirty (30) days) after the oral disclosure[, or which information would, under the circumstances, appear to a reasonable person to be confidential or proprietary].  [Notwithstanding any failure to so identify it, however, all of the Company’s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  shall be Confidential Information of the Company and all of Counterparty’s _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  shall be Confidential Information of Counterparty.] 
+
+>3) [**Regulation FD.**  Recipient understands that Discloser’s Confidential Information as well as the existence of the discussions concerning the Relationship and the terms of the Relationship being contemplated by the parties may be deemed material non-public information and that it is unlawful for Recipient to, and Recipient has no intention to, trade in the stock of Discloser while Recipient is in possession of such material non-public information.] 
+
+>4) [**Non-Acceptance of Confidential Information; No Compensation.**  Recipient shall have the right to refuse to accept any Confidential Information tendered by Discloser, and nothing in this Agreement shall obligate Recipient to accept any such Confidential Information.  Recipient shall not compensate Discloser for receiving any Confidential Information under this Agreement.] 
+
+>5) **Nondisclosure of Confidential Information.**
+
+>>a) Recipient agrees not to use any Confidential Information disclosed to it by Discloser for its own use or for any purpose other than to carry out discussions concerning, and the undertaking of, the Relationship.  Recipient shall not disclose or permit disclosure of any Confidential Information of Discloser to third parties or to employees of Recipient, other than directors, officers, employees, consultants and agents of Recipient who are required to have the information in order to carry out the discussions regarding the Relationship.  Recipient agrees that it shall take reasonable measures to protect the secrecy of and avoid disclosure or use of Confidential Information of Discloser in order to prevent it from falling into the public domain or the possession of persons other than those persons authorized under this Agreement to have any such information.  Such measures shall include the degree of care that Recipient utilizes to protect its own Confidential Information of a similar nature.  Recipient agrees to notify Discloser of any misuse, misappropriation or unauthorized disclosure of Confidential Information of Discloser which may come to Recipient’s attention.
+
+>>b) **Exceptions.**  Notwithstanding the above, Recipient shall not have liability to Discloser with regard to any Confidential Information that the [Recipient] can prove:
+
+>>>i) was in the public domain at the time it was disclosed or has entered the public domain through no fault of Recipient;
+
+>>>ii) was known to Recipient, without restriction, at the time of disclosure, as demonstrated by files in existence at the time of disclosure;
+
+>>>iii) [was independently developed by Recipient without any use of the Confidential Information, as demonstrated by files created at the time of such independent development;] 
+
+>>>iv) [is disclosed generally to third parties by Discloser without restrictions similar to those contained in this Agreement;] 
+
+>>>v) becomes known to Recipient, without restriction, from a source other than Discloser without breach of this Agreement by Recipient and otherwise not in violation of Discloser’s rights;
+
+>>>vi) is disclosed with the prior written approval of Discloser; or
+
+>>>vii) is disclosed pursuant to the order or requirement of a court, administrative agency, or other governmental body; provided, however, that Recipient shall provide prompt notice of such court order or requirement to Discloser to enable Discloser to seek a protective order or otherwise prevent or restrict such disclosure.
+
+>6) **Return of Materials.**  [Recipient agrees, except as otherwise expressly authorized by Discloser, not to make any copies or duplicates of any Confidential Information.] Any materials or documents that have been furnished by Discloser to Recipient in connection with the Relationship shall be promptly returned by Recipient, accompanied by all copies of such documentation, within ten (10) days after (a) the Relationship has been rejected or concluded or (b) the written request of Discloser[; provided, however, that Recipient may at its option retain one (1) copy of such materials or documents for archival purposes only].
+
+>7) **No Rights Granted.**  Nothing in this Agreement shall be construed as granting any rights under any patent, copyright or other intellectual property right of Discloser, nor shall this Agreement grant Recipient any rights in or to Discloser’s Confidential Information other than the limited right to review such Confidential Information solely for the purpose of determining whether to enter into the Relationship.  [Nothing in this Agreement requires the disclosure of any Confidential Information, which shall be disclosed, if at all, solely at Discloser’s option.]  Nothing in this Agreement requires the [Discloser] OR [Recipient] OR [parties] to proceed with the Relationship or any transaction in connection with which the Confidential Information may be disclosed.
+
+>8) [**Independent Development and Residuals.**
+
+>>a) Recipient’s confidentiality obligations under this Agreement shall not be construed to limit Recipient’s right to develop independently or acquire products without use of Discloser’s Confidential Information.  Discloser acknowledges that Recipient may currently or in the future be developing information internally, or receiving information from other parties, that is similar to the Confidential Information.  Accordingly, nothing in this Agreement will prohibit the receiving party from developing or having developed for it products, concepts, systems or techniques that are similar to or compete with the products, concepts, systems or techniques contemplated by or embodied in the Confidential Information provided that Recipient does not violate any of its obligations under this Agreement in connection with such development.
+
+>>b) In addition, notwithstanding any other provision of this Agreement, Recipient’s confidentiality obligations under this Agreement shall not apply to, and Recipient shall be free to use, the residuals resulting from access to or work with the Confidential Information of Discloser.  As used in this Agreement, the term “residuals” means information in non tangible form, which may be retained by persons who have had access to the Confidential Information, including ideas, concepts, know how or techniques contained therein.  Recipient shall have no obligation to limit or restrict the assignment of such persons or to pay royalties for any work resulting from the use of residuals.] 
+
+>9) **Term.**  The foregoing commitments of each party shall survive any termination of the Relationship between the parties, and shall continue for a period terminating on the later to occur of the date (a) five (5) years following the date of this Agreement or (b) three (3) years from the date on which Confidential Information is last disclosed under this Agreement.
+
+>10) **Successors and Assigns.**  The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective successors and assigns of the parties, provided that Confidential Information of Discloser may not be assigned without the prior written consent of Discloser, unless the assignee shall be the successor entity to the assignor upon the dissolution of the assignor in its present form.  Nothing in this Agreement, express or implied, is intended to confer upon any party other than the parties hereto or their respective successors and assigns any rights, remedies, obligations, or liabilities under or by reason of this Agreement, except as expressly provided in this Agreement.
+
+>11) **Severability.**  If one or more provisions of this Agreement are held to be unenforceable under applicable law, the parties agree to renegotiate such provision in good faith.  In the event that the parties cannot reach a mutually agreeable and enforceable replacement for such provision, then (a) such provision shall be excluded from this Agreement, (b) the balance of the Agreement shall be interpreted as if such provision were so excluded and (c) the balance of the Agreement shall be enforceable in accordance with its terms.
+
+>12) **Independent Contractors.**  The parties are independent contractors, and nothing contained in this Agreement shall be construed to constitute the parties as partners, joint venturers, co-owners or otherwise as participants in a joint or common undertaking.
+
+>13) **Governing Law[; Jurisdiction].**  This Agreement and all acts and transactions pursuant hereto and the rights and obligations of the parties hereto shall be governed, construed and interpreted in accordance with the laws of the State of [California], without giving effect to principles of conflicts of law.  [Each of the parties hereto consents to the exclusive jurisdiction and venue of the courts of _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  County, _ _ .] 
+
+>14) **Remedies.**  Each party’s obligations set forth in this Agreement are necessary and reasonable in order to protect Discloser and its business.  Due to the unique nature of Discloser’s Confidential Information, monetary damages would be inadequate to compensate Discloser for any breach by Recipient of its covenants and agreements set forth in this Agreement.  Accordingly, the parties each agree and acknowledge that any such violation or threatened violation may cause irreparable injury to Discloser and, in addition to any other remedies that may be available, in law, in equity or otherwise, Discloser shall be entitled to obtain injunctive relief against the threatened breach of this Agreement or the continuation of any such breach by Recipient.
+
+>15) **Amendment and Waiver.**  Any term of this Agreement may be amended with the written consent of both parties.  Any amendment or waiver effected in accordance with this Section shall be binding upon the parties and their respective successors and assigns.  Failure to enforce any provision of this Agreement by a party shall not constitute a waiver of any term hereof by such party.
+
+>16) **Counterparts.**  This Agreement may be executed in two or more counterparts, each of which shall be deemed an original and all of which together shall constitute one instrument.
+
+>17) **Entire Agreement.**  This Agreement is the product of both of the parties hereto, and constitutes the entire agreement between such parties pertaining to the subject matter hereof, and merges all prior negotiations and drafts of the parties with regard to the transactions contemplated herein.  Any and all other written or oral agreements existing between the parties hereto regarding such transactions are expressly canceled.
+
+>18) [**No Publicity.**  Neither party shall, without the prior consent of the other party, disclose to any other person the fact that Confidential Information of Discloser has been and/or may be disclosed under this Agreement, that discussions or negotiations are taking place between the parties, or any of the terms, conditions, status or other facts with respect thereto, except as required by law and then only with prior notice as soon as possible to the other party.] 
+
+>19) [**No Modification.**  Recipient agrees that it shall not modify, reverse engineer, decompile, create other works from or disassemble any software programs contained in the Confidential Information of Discloser unless permitted in writing by Discloser.] 
+
+>20) [**Restrictions on Export.**  Recipient shall not export, directly or indirectly, any technical data acquired from Discloser pursuant to this Agreement or any product utilizing any such data to any country for which the U.S. Government or any agency thereof at the time of export requires an export license or other government approval without first obtaining such license or approval.] 
+*[Signature Page Follows]*
+ 
+The parties have executed this Mutual Nondisclosure Agreement as of the date first above written.
+
+**THE COMPANY:** 
+
+[COMPANY NAME] 
+
+By: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Signature) 
+
+Name: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Title: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Address: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Fax:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+**COUNTERPARTY:**
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (PRINT NAME)
+
+By: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ (Signature) 
+
+Name: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Title: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+Address: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+
+Fax:  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+
+
