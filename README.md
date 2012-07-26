@@ -1,6 +1,54 @@
 This is a mutual nondisclosure agreement, meaning that it applies equally to both parties and requires both to keep the other's information confidential, etc. This is a relatively standard form designed to be used in routine situations where a mutual NDA is required. It is not sufficient for a significant transaction like selling the entire business, but it is generally appropriate for meeting with potential investors, potential strategic partners or potential service providers who have not yet joined the Company and signed the full blown Confidential Information and Invention Assignment Agreement. This will enable the Company to have fairly high level discussions with third parties and share high level information about the Company’s business plan and strategic direction. It is important to check with counsel in each instance to ensure that this is the right form for the particular information you intend to share.
 
-This legal document comes from the Start-Up Forms Library provided by Orrick's Emerging Companies Group. Orrick is an international law firm with headquarters in San Francisco and over 1,100 lawyers worldwide in 21 offices.
+This legal document comes from the Start-Up Forms Library provided by the Emerging Companies Group at Orrick - an international law firm headquartered in San Francisco.  The entire Start-Up Forms Library consists of the following:
+
+**Corporate Formation Documents (Delaware Corporation)**
+
+  - Incorporation Questionnaire
+  - Certificate of Incorporation
+  - Bylaws
+  - Action by Written Consent of Incorporator
+  - Initial Organizational Resolutions of the Board of Directors
+  - SS-4 and Filing Instructions to Obtain an EIN
+
+**Founders' Stock Purchase Documents**
+
+  - Common Stock Purchase Agreement (with Vesting)
+  - Common Stock Certificate
+  - Capitalization Table
+  - Stock Ledger
+  - 83(b) Election Form
+  - 25102(f) Notice
+
+**Director- and Officer-Related Documents**
+
+  - Indemnification Agreement
+  - Stockholder Approval of Indemnification Agreement
+
+**Employment & Consultant Documents**
+
+  - Employee Offer Letter
+  - Employment Agreement
+  - Consulting Agreement
+
+**Technology Related Documents**
+
+  - Confidential Information and Invention Assignment Agreement for Employees
+  - Confidential Information and Invention Assignment Agreement for Consultants
+  - Nondisclosure Agreement (Mutual)
+
+**Equity Compensation Documents**
+
+  - Stock Plan
+  - Stock Plan Summary
+  - Option Agreement
+  - Restricted Stock Purchase Agreement
+  - Board Approval of Stock Plan
+  - Stockholder Approval of Stock Plan
+  - Board Approval of Option Grant
+  - 83(b) Election Form
+  - 25102(o) Notice
+
 
 - - - - - 
 
