@@ -1,3 +1,5 @@
+##Description
+
 This is a mutual nondisclosure agreement, meaning that it applies equally to both parties and requires both to keep the other's information confidential, etc. This is a relatively standard form designed to be used in routine situations where a mutual NDA is required. It is not sufficient for a significant transaction like selling the entire business, but it is generally appropriate for meeting with potential investors, potential strategic partners or potential service providers who have not yet joined the Company and signed the full blown Confidential Information and Invention Assignment Agreement. This will enable the Company to have fairly high level discussions with third parties and share high level information about the Company’s business plan and strategic direction. It is important to check with counsel in each instance to ensure that this is the right form for the particular information you intend to share.
 
 This legal document comes from the Start-Up Forms Library provided by the Emerging Companies Group at Orrick - an international law firm headquartered in San Francisco.  The entire Start-Up Forms Library consists of the following:
@@ -49,12 +51,17 @@ This legal document comes from the Start-Up Forms Library provided by the Emergi
   - 83(b) Election Form
   - 25102(o) Notice
 
+##Legal Liability
 
-- - - - - 
+This document should not be considered legal advice, and no attorney-client relationship is formed by your use of this document.  This information may not be suited for your specific situation.  Please consult an attorney to address your particular needs.  See the [Orrick] terms.
 
-If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  
+##Help Make Legal Documents Open-Source 
 
 We're [Paperwell.com] and we're trying to make quality legal documents a free, public resource.  
+
+If you have any documents you'd like to share on Github but don't want to be bothered with formatting it nicely in Markdown, please email it to our **Gmail account: paperwellcare**.  we'll do it for you.
+
 Thanks!
 
 [Paperwell.com]: http://www.paperwell.com
+[Orrick]: http://www.orrick.com/inc/NoticePublication.asp?sDocID=1946&sExt=doc
